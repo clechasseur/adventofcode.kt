@@ -1,5 +1,5 @@
 # Gradle
-#!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.jar
 .gradle/
 
 # IntelliJ
@@ -23,7 +23,7 @@ out/
 .mtj.tmp/
 
 # Package Files #
-# *.jar
+*.jar
 *.war
 *.nar
 *.ear
